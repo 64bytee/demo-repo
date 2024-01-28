@@ -1,4 +1,4 @@
 # demo-repo
-This is description <br>
-## RRGGBB	
-## 0969DA
+This is my first repo and description <br>
+### RRGGBB	
+### 0969DA
